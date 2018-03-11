@@ -1,0 +1,9 @@
+notes
+declare a parameter and then define whats actually inside the parameter ex ch3 in c#3 dailyrate exercise line 19 is the parameter and line 27 defines the parameter.
+ hard deliverable
+monday
+step 2 of project
+c# exercise
+sql exercise
+c#ch5,soft=6
+soft=sql ch4,5

@@ -1,0 +1,18 @@
+c#hw3
+1 a named sequence of statements/a method has a name and a body/performs a series of statements 
+
+2 it brings the information back/value of the function. if the function returns a value
+
+3 a single method that returns a value type that matches the methods/a short cut that allows you to use the same function faster 
+
+4 an area in a program were it can be seen
+
+5 having either a different number of variable or different returns types or both
+
+6 place the arguments in the parenthesis after calling a method call 
+
+7 you would have to use the run method it would require a understanding of classes
+
+8 by providing a default value for the parameters = the assignment operator
+
+9 you specify the name of the paramentors ,followed buy a colon and the value to use

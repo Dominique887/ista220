@@ -1,0 +1,16 @@
+Project Assingment, week 01
+
+Domininque, Austin
+Feb 25,2018
+
+
+Hello one of the few projects that im thinking about working on. Is a user console application that uses a data base that would store photos of the users clothing. They would be able to access the photos from the database. to see what the user would want to wear a gallery of photos will display on there screen. the app would be like a virtual closet that allows you to pick what you would want to wear. it would tell you the the last time you used any outfit in the photo gallery to avoid you being seen in the same clothes too many times. the application will allow you to pull more than one picture from the gallery so the user can compare outfits.
+
+my second project would be a message applicattion that would have user registration, posting messages sending messages composing groups and when ever you wanna you a phrase or emoji it would have to be photographed or recorded ex: lol, you would actually have to laugh out loud kinda like snapchat.
+
+
+ the third project im thinking about doing would be urban dictionary with users being able to post entries of new words and sayings,search function, and user will also have to registaerso the data base can save all there entries.
+
+
+ 
+	 

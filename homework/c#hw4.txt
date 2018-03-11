@@ -1,0 +1,7 @@
+c#hw4
+1 true and false
+2 ==,!=,<,<=,>=,&&,||, 
+3 in the case of short circuiting they both bypass the evaluation of the right operand 
+4primary and assignment
+5 it will group the statments into a block which is a sequence of statements grouped between an opening and closing brace
+6 when using break it helps keep the code from the previse line from falling through everytime you use a break you have to use a switch 
