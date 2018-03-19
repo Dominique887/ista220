@@ -1,6 +1,0 @@
-ch3 lab1
- double dailyRate = readDouble("Enter your daily rate: "); /parameter passing through the function
- same as 1 st line but gives a integer
- calculate fees return value 
- (new Program()) .run(); new program has a higher precedence than the run portion the new program would run first
- 
