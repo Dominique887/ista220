@@ -1,4 +1,0 @@
-notes ch3 lab 2
- jvm a machine understands 11010101 humans use a programming language
-its the job of the compilier to convert the human language to machine 
-the compiler is cpu specific
